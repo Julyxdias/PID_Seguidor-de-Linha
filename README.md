@@ -1,5 +1,5 @@
 # Carrinho Seguidor de Linha — Controle PID
-### Grupo 7 · Karolaine · Eng. da Computação · 2026
+### Grupo 7 · Eng. da Computação · 2026
 
 Projeto de um robô seguidor de linha com controlador PID embarcado no Arduino UNO.
 O sistema detecta a posição de uma linha preta por meio de 4 sensores IR e ajusta
